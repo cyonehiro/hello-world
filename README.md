@@ -1,2 +1,2 @@
 # hello-world
-Short description about respository...
+Hi! Completely new to coding, just here to learn all I can.
